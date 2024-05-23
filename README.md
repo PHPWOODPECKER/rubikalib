@@ -14,4 +14,6 @@ rubika php library
 
   ##woodpeackerRubika 1.1.0
 
+
+<p>فایل زیپ شده دار دانلود کنید و استفاده کنید</p>
   
